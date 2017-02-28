@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">划词翻译</string>
+    <string name="app_count">在网页中任意选择一个词，点击复制，弹出翻译结果\n\n如果未能成功，
+        请先打开设置->程序->权限，打开悬浮窗权限\n\n使用UC浏览器会无法弹出 VIEW</string>
+    <string name="show">释义:</string>
+    <string name="tip">加载释义中……</string>
+    <string name="introduce">介绍</string>
+    <string name="permission_text">请打开悬浮窗权限之后操作</string>
+    <string name="no_network">请连接网络后重试</string>
+    <string name="network_err">网络连接出错</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_tip">提示</string>
+</resources>
