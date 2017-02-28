@@ -41,6 +41,7 @@ public class MainActivity extends Activity implements Animator.AnimatorListener 
             toastShow(getString(R.string.permission_text));
         }
     }
+
     public void checkNetwork(Context context){
         if (context!=null){
             ConnectivityManager managerCompat= (ConnectivityManager)
